@@ -12,4 +12,4 @@ Pode saber mais sobre o projeto, [https://react-native.rocketseat.dev/](clicando
 
 ## Imagens do projeto
 
-<img src="readme-img/screens-for-the-readme.pngg" alt="screens">
+<img src="readme-img/screens-for-the-readme.png" alt="screens">
