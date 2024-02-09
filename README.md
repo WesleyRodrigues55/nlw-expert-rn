@@ -1,6 +1,6 @@
 "# nlw-expert-rn" 
 
-## o que é o projeto?
+## O que é o projeto?
 
 Evento NLW Expert trilha de React Native da Rocketseat,
 
