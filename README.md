@@ -8,7 +8,7 @@ Desenvolvimento de uma aplicação mobile em React Native, aplicação dos conce
 
 ## Requisitos para o projeto
 
-Pode saber mais sobre o projeto, [clicando aqui](https://react-native.rocketseat.dev/).
+Pode saber mais sobre os requisitos do projeto, [clicando aqui](https://react-native.rocketseat.dev/).
 
 ## Imagens do projeto
 
