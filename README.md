@@ -16,13 +16,13 @@ Pode saber mais sobre os requisitos do projeto, [clicando aqui](https://react-na
 
 ## Criando APK (Android) e IPA (iOS)
 
-ATENÇÃO: isso serve logo após ter clonado o projeto e rodado o comando `npm install`
+ATENÇÃO: isso serve logo após ter clonado o projeto e rodado o comando `npm install`.
 
 Criação do APK (Android), execute o comando abaixo no seu terminal (dentro do diretório do projeto):
 
 `eas build -p android --profile preview`
 
-Saiba mais sobre como criar um APK (Android) [clicando aqui](https://docs.expo.dev/build-reference/apk/)
+Saiba mais sobre como criar um APK (Android) [clicando aqui](https://docs.expo.dev/build-reference/apk/).
 
 ***
 
@@ -30,7 +30,7 @@ Criação do IPA (iOS), execute o comando abaixo no seu terminal (dentro do dire
 
 `eas build -p ios --profile preview`
 
-Saiba mais sobre como criar um IPA (iOS) [clicando aqui](https://docs.expo.dev/build-reference/simulators/)
+Saiba mais sobre como criar um IPA (iOS) [clicando aqui](https://docs.expo.dev/build-reference/simulators/).
 
 ***
 
