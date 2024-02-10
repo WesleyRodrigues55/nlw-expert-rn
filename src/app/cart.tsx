@@ -59,7 +59,7 @@ export default function Cart() {
             \n Valor total: ${total}
         `
 
-        Linking.openURL(`http://api.whatsapp.com/send?phone=${PHONE_NUMBER}&text${message}`)
+        Linking.openURL(`http://api.whatsapp.com/send?phone=${PHONE_NUMBER}&text=${message}`)
 
         cartStore.clear()
         navigation.goBack()
