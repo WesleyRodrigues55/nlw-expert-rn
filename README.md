@@ -37,4 +37,5 @@ Saiba mais sobre como criar um IPA (iOS) [clicando aqui](https://docs.expo.dev/b
 Mas caso você já queira testar a aplicação em sua versão 1.0.0, abaixo deixo os links do APK e IPA
 
 APK (Android) [clique aqui](https://expo.dev/artifacts/eas/eLzQ1s4Ymff9YGPPNUWUYA.apk).
+
 IPA (iOS) [clique aqui](https://expo.dev/artifacts/eas/xcb5urwPqT9WUEM6obFTGg.tar.gz).
