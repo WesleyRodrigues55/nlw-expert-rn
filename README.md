@@ -22,16 +22,13 @@ Criação do APK (Android), execute o comando abaixo no seu terminal (dentro do 
 
 `eas build -p android --profile preview`
 
-***
-
 Saiba mais sobre como criar um APK (Android) [clicando aqui](https://docs.expo.dev/build-reference/apk/)
 
+***
 
 Criação do IPA (iOS), execute o comando abaixo no seu terminal (dentro do diretório do projeto):
 
 `eas build -p ios --profile preview`
-
-***
 
 Saiba mais sobre como criar um IPA (iOS) [clicando aqui](https://docs.expo.dev/build-reference/simulators/)
 
